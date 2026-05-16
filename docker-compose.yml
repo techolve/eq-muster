@@ -1,0 +1,5 @@
+services:
+  eq-muster:
+    image: heki0323/eq-muster:latest
+    restart: unless-stopped
+    env_file: .env
