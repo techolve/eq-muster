@@ -9,7 +9,7 @@ dependencies = [
 ]
 
 [project.scripts]
-eq-muster = "eq_muster.main:main"
+eq-muster = "eq_muster.main:run"
 
 [build-system]
 requires = ["hatchling"]
