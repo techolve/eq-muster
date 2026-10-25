@@ -31,7 +31,7 @@ cp .env.example .env
 docker compose up -d
 ```
 
-Docker Hub イメージ: `heki0323/eq-muster:latest`
+Docker Hub イメージ: `heki0824/eq-muster:latest`
 
 ## ローカル開発
 
